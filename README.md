@@ -4,6 +4,8 @@ Scoreboard Olimpiade Sains Nasional bidang Informatika.
 
 Dikelola sebagai arsip, mengingat halaman sumber suatu saat bisa hilang.
 
+[Halaman Utama](http://olimpiadeinformatika.com/osn-scoreboard)
+
 * OSN 2016 : [sumber](http://osn2016.ia-toki.org/)
 * OSN 2015 : [sumber](https://github.com/ia-toki/osn2015-results)
 * OSN 2014 : [sumber](http://osn.if.itb.ac.id/scoreboard)
